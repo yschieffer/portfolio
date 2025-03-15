@@ -1,0 +1,32 @@
+<!-- Portfolio Section -->
+<article id="portfolio" class="wrapper style3">
+  <div class="container">
+    <header>
+      <h2>Projects</h2>
+      <p>Here are some of the projects I've worked on:</p>
+    </header>
+    <div class="row">
+      <div class="col-4 col-6-medium col-12-small">
+        <article class="box style2">
+          <a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+          <h3><a href="#">Sales Performance Analysis</a></h3>
+          <p>Analyzed sales data to identify trends and provided actionable recommendations, resulting in a 15% increase in revenue.</p>
+        </article>
+      </div>
+      <div class="col-4 col-6-medium col-12-small">
+        <article class="box style2">
+          <a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+          <h3><a href="#">Process Optimization</a></h3>
+          <p>Streamlined internal processes by identifying bottlenecks and implementing automation tools, reducing operational costs by 20%.</p>
+        </article>
+      </div>
+      <div class="col-4 col-6-medium col-12-small">
+        <article class="box style2">
+          <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+          <h3><a href="#">Market Research</a></h3>
+          <p>Conducted market research and competitor analysis to support the successful launch of a new product line.</p>
+        </article>
+      </div>
+    </div>
+  </div>
+</article>
