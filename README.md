@@ -1,1 +1,1 @@
-Hello it's Yushi!
+Hello! I'm Yushi Schieffer, a passionate and detail-oriented Business Analyst with a strong background in data analysis, process optimization, and strategic decision-making. I specialize in translating complex business needs into actionable solutions that deliver measurable results.<
