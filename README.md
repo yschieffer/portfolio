@@ -11,5 +11,5 @@ Visit the live site: [https://yschieffer.github.io](https://yschieffer.github.io
 - Market Research
 
 ## Contact
-- Email: youremail@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: yushi.schieffer@gmail.com
+- LinkedIn:[https://linkedin.com/in/yourprofile](https://linkedin.com/in/yushi-schieffer)
