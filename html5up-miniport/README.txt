@@ -1,32 +1,32 @@
-Miniport by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+<!-- About Section -->
+<article id="about" class="wrapper style3">
+  <div class="container">
+    <header>
+      <h2>About Me</h2>
+      <p>Hello! I'm Yushi Schieffer, a passionate and detail-oriented Business Analyst with a strong background in data analysis, process optimization, and strategic decision-making. I specialize in translating complex business needs into actionable solutions that deliver measurable results.</p>
+    </header>
+    <div class="row aln-center">
+      <div class="col-4 col-6-medium col-12-small">
+        <section class="box style1">
+          <span class="icon solid featured fa-user"></span>
+          <h3>Skills</h3>
+          <p>Data Analysis, Process Optimization, Market Research, Financial Forecasting, Customer Segmentation.</p>
+        </section>
+      </div>
+      <div class="col-4 col-6-medium col-12-small">
+        <section class="box style1">
+          <span class="icon solid featured fa-graduation-cap"></span>
+          <h3>Education</h3>
+          <p>Bachelor of Science in Business Administration, Augustana University.</p>
+        </section>
+      </div>
+      <div class="col-4 col-6-medium col-12-small">
+        <section class="box style1">
+          <span class="icon solid featured fa-briefcase"></span>
+          <h3>Experience</h3>
+          <p>Business Analyst Intern at XYZ Company, Data Analyst at ABC Organization.</p>
+        </section>
+      </div>
+    </div>
+  </div>
+</article>
